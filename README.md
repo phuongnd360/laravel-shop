@@ -1,2 +1,1 @@
-# laravel-shop
-Laravel Shopping
+laravel-shop
